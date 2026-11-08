@@ -26,7 +26,7 @@ Lightweight & Open Source: Built cleanly with Python and Tkinter, meaning it's s
 
 *(Alternatively, if running from source)*:
 ```bash
-git clone [https://github.com/pk5t/idle-ON.git](https://github.com/pk5t/idle-ON.git)
+git clone https://github.com/pk5t/idle-ON.git
 cd idle-ON
 pip install -r requirements.txt
 python app.py
