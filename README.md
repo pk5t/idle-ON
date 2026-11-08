@@ -7,11 +7,7 @@
 
 All-in-One Dashboard: Everything you need in one place—manage your game tasks, achievements, and card idling without jumping between different tools.
 
-Steam-Themed Look & Feel: A gorgeous dark interface built from scratch so it looks right at home next to your official Steam client.
-
-Remembers Your Stuff: Your settings and tasks are saved automatically, so you never lose your progress when you close the app.
-
-Runs Silently in the Background: Minimizes smoothly so you can keep working or gaming without any interruptions.
+Steam-Themed Look & Feel: A gorgeous dark interface built from scratch so it looks right at home next to your official Steam .
 
 Lightweight & Open Source: Built cleanly with Python and Tkinter, meaning it's super fast, easy to run, and 100% transparent.
 
