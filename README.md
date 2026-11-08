@@ -3,7 +3,7 @@
 **idle-ON** is a modern, open-source desktop application designed to streamline your Steam experience. By bringing the most popular utilities—such as SAM Rewritten and Idle Master Extended—into a single, unified platform, it gives you seamless control over your game achievements and card idling from one clean, Steam-styled interface.
 ---
 
-## ✨ Features
+## Features
 
 All-in-One Dashboard: Everything you need in one place—manage your game tasks, achievements, and card idling without jumping between different tools.
 
