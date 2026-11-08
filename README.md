@@ -5,11 +5,11 @@
 
 ## ✨ Features
 
-* **All-in-One Dashboard:** Control and manage your Steam game tasks, achievements, and card idling from one centralized hub.
-* **Sleek Steam-Themed UI:** Features a custom dark interface designed to feel right at home alongside the official Steam client.
-* **Persistent Storage:** Automatically saves your configurations and tasks locally.
-* **Background Execution:** Runs smoothly in the background so your workflow stays uninterrupted.
-* **Lightweight & Open Source:** Built with Python and Tkinter for maximum performance and full transparency.
+All-in-One Dashboard: Everything you need in one place—manage your game tasks, achievements, and card idling without jumping between different tools.
+Steam-Themed Look & Feel: A gorgeous dark interface built from scratch so it looks right at home next to your official Steam client.
+Remembers Your Stuff: Your settings and tasks are saved automatically, so you never lose your progress when you close the app.
+Runs Silently in the Background: Minimizes smoothly so you can keep working or gaming without any interruptions.
+Lightweight & Open Source: Built cleanly with Python and Tkinter, meaning it's super fast, easy to run, and 100% transparent.
 
 ---
 
@@ -25,8 +25,7 @@ git clone [https://github.com/pk5t/idle-ON.git](https://github.com/pk5t/idle-ON.
 cd idle-ON
 pip install -r requirements.txt
 python app.py
-🛠️ Built With
-Python
+Built With Python
 
 Tkinter (Custom GUI)
 
